@@ -1,0 +1,24 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joaogomes1806/exemplo-grid#readme",
+  "bugs": {
+    "url": "https://github.com/joaogomes1806/exemplo-grid/issues"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/joaogomes1806/exemplo-grid.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vite": "^8.2.1"
+  }
+}

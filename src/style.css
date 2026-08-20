@@ -1,0 +1,21 @@
+.demo-box {
+
+    background-color: aqua;
+    color: aliceblue;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    border-radius: 0.375rem;
+    font-weight: bold;
+
+}
+
+.demo-box-alt {
+
+    background-color: black;
+    color: aqua;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    border-radius: 0.375rem;
+    font-weight: bold;
+
+}
